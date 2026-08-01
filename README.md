@@ -59,31 +59,31 @@
 
 <!-- 统计卡片（亮色主题，你可以改成暗色 theme=dark） -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Drayee&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drayee&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drayee&layout=compact&theme=radical&hide_border=true&langs_count=8" width="45%" />
   <!-- 可选：奖杯 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=2&column=4" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Drayee&theme=radical&no-frame=true&row=2&column=4" width="45%" />
 </p>
 
 ---
 
 ### 🚀 精选项目 / Featured Projects
 
-#### [Pancake](https://github.com/YOUR_USERNAME/pancake) —— Python 异步微服务与 AI 智能体底层框架
+#### [Pancake](https://github.com/PancakeFramework) —— Python 异步微服务与 AI 智能体底层框架
 > 从零手写的极客框架，融合 Spring 设计思想 + LangGraph 原生集成  
 > **核心技术**：Python 3.13, FastAPI, AST 元编程, 自研 SQL 解析引擎, Redis 分布式事件总线  
 > **亮点**：IoC/DI 容器、动态路由、MyBatis-Plus 级 ORM、AI Agent 原生支持
 
-#### [YachiyoServiceCloud](https://github.com/YOUR_USERNAME/yachiyo-service-cloud) —— 《超时空辉夜姬》元宇宙社区后端
+#### [YachiyoServiceCloud](https://github.com/orgs/Tsukimi-Yachiyo) —— 《超时空辉夜姬》元宇宙社区后端
 > 赛博朋克风格微服务高可用平台，支撑沉浸式社交与内容创作  
 > **技术栈**：Java 25, Spring Cloud Alibaba, Nacos, Sentinel, Redis, MinIO, PostgreSQL  
 > **角色**：全栈核心架构 & 开发，设计 9 大微服务，创新 Vue 3 + Cocos 双层前端桥接
 
-#### [ZhiPin-Agent](https://github.com/YOUR_USERNAME/zhijian-agent) —— 大模型驱动智能就业推荐系统
+#### 大模型驱动智能就业推荐系统
 > 2026 年四川省大学生计算机设计大赛三等奖作品  
 > **技术栈**：Python, LangGraph, 大模型 API, Vibe Coding 开发模式  
 > **功能**：简历解析 → 意图识别 → 岗位匹配 → 面试模拟的多 Agent 工作流
@@ -101,7 +101,7 @@
 
 - 📧 邮箱：drayeefly@gmail.com（个人） / 1473443474@qq.com（备用）
 - 💬 QQ：1473443474
-- 🐙 GitHub：[Drayee](https://github.com/YOUR_USERNAME)
+- 🐙 GitHub：[Drayee](https://github.com/Drayee)
 - 🎮 游戏 / 动漫同好？欢迎来交流！
 
 ---
