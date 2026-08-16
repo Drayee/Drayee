@@ -60,6 +60,9 @@
      因此改用 shields.io 徽章（与技术栈徽章同一服务，稳定可显示）。
      若你那边 vercel.app 可以访问，可自行换回下面的卡片：
      <img src="https://github-readme-stats.vercel.app/api?username=Drayee&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" /> -->
+<p align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Drayee&theme=radical&hide_border=true" width="48%" />
+</p>
 
 <p align="center">
   <a href="https://github.com/Drayee"><img src="https://img.shields.io/github/followers/Drayee?style=for-the-badge&logo=github&label=Followers&color=6C3CE1" /></a>
