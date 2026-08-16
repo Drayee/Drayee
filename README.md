@@ -56,14 +56,18 @@
 
 ## GitHub 数据 / Stats
 
-<!-- 仅保留可靠的服务：github-readme-stats.vercel.app -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Drayee&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" />
-</p>
+<!-- 说明：github-readme-stats.vercel.app 等统计服务在部分地区经常超时/无法显示，
+     因此改用 shields.io 徽章（与技术栈徽章同一服务，稳定可显示）。
+     若你那边 vercel.app 可以访问，可自行换回下面的卡片：
+     <img src="https://github-readme-stats.vercel.app/api?username=Drayee&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" /> -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drayee&layout=compact&theme=radical&hide_border=true&langs_count=8" width="45%" />
+  <a href="https://github.com/Drayee"><img src="https://img.shields.io/github/followers/Drayee?style=for-the-badge&logo=github&label=Followers&color=6C3CE1" /></a>
+  <a href="https://github.com/Drayee?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDrayee&query=public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=6C3CE1" /></a>
+  <a href="https://github.com/Drayee"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDrayee&query=following&label=Following&style=for-the-badge&logo=github&color=6C3CE1" /></a>
 </p>
+
+<p align="center"><i>数据由 shields.io 实时拉取 GitHub API 自动更新 · <a href="https://github.com/Drayee">查看完整主页</a></i></p>
 
 ---
 
